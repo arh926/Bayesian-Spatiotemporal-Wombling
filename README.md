@@ -10,7 +10,11 @@ The functions used are from the `sptwombling` (author + maintainer: Aritra Halde
 See the [sptwombling R package](https://github.com/arh926/sptwombling) repository for further details.
 
 ### Roadmap of the Repository
-
+| Directory | Contents/Description |
+| code | contains source code from `sptwombling` relevant for preforming the analysis |
+| data | |
+| output | |
+| script | |
 
 
 ### Package environments
