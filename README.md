@@ -11,6 +11,7 @@ See the [sptwombling R package](https://github.com/arh926/sptwombling) repositor
 
 ### Roadmap of the Repository
 | Directory | Contents/Description |
+| --- | --- |
 | code | contains source code from `sptwombling` relevant for preforming the analysis |
 | data | |
 | output | |
