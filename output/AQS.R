@@ -1,4 +1,4 @@
-setwd("/Users/aritrah/Library/CloudStorage/Dropbox/Desktop-Files/spatiotemporal_gradient/space-time/")
+setwd("...")
 ##########################################
 # AIR QUALITY DATA FOR CANADA WILD FIRES #
 #           (EAST COAST)                 #
