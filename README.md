@@ -14,5 +14,7 @@ See the [sptwombling R package](https://github.com/arh926/sptwombling) repositor
 | --- | --- |
 | *code* | contains source code from `sptwombling` relevant for preforming the analysis in `.R` format |
 | *data* | contains data used in Section 6 of the manuscript|
-| *output* | contains saved simulation results in `.RData` format and figures in the manuscript|
+| *output* | contains simulation scripts for results in `.R` format and figures in the manuscript|
 | *script* | data analyses/simulations working scripts in `.R` format|
+
+The datasets required to reproduce the tables are too large in size to include here.
